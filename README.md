@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, Im Rushikesh Vispute!
 
-<!--
-**Rushi20pute/Rushi20pute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**♦️About Me♦️**
 
-Here are some ideas to get you started:
+💻 I am a passionate **Cybersecurity Enthusiast** and **Network engineer**, Skilled in managing and trouble shooting the networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- - -
+
+🚀 I specialize in:
+
+
+### Networking
+
+![Network Troubleshooting](https://img.shields.io/badge/Network%20Troubleshooting-blue?style=for-the-badge)     ![Routing & Switching](https://img.shields.io/badge/Routing%20%26%20Switching-green?style=for-the-badge&logo=router&logoColor=white)     ![CCNA Certified](https://img.shields.io/badge/CCNA%20Certified-red?style=for-the-badge&logo=Cisco&logoColor=white)     
+
+- - - 
+
+
+**🤝Lets Connect:** 
+💼https://www.linkedin.com/in/rushi-vispute-5b6321222
+**📧Email:** rushivispute2002@gmail.com
+
+- - - 
